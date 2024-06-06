@@ -8,7 +8,7 @@ Sharing my everyday life as a junior web developer. Always learning something ne
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [karankhandelwal123510@gmail.com](mailto:karankhandelwal123510@gmail.com)
-* 🧠  I'm learning Vue.js
+* 🧠  I'm learning React.js
 
 <a href="https://www.github.com/karan362" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/karan362?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
