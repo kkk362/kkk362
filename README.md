@@ -11,7 +11,7 @@ Frontend Engineer with 4+ years of experience in React, delivering scalable and 
 * 🧠  Building production-grade applications with React.js
 
 <a href="https://www.github.com/karan362" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/karan362?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/kkk362?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
