@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 ------------------------------
 
-Sharing my everyday life as a junior web developer. Always learning something new. Started my journey with HTML but then found passion in Backend Development.
+Frontend Engineer with 4+ years of experience in React, delivering scalable and cost-efficient web solutions. Passionate about clean UI, performance, and frontend architecture.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [karankhandelwal123510@gmail.com](mailto:karankhandelwal123510@gmail.com)
-* 🧠  I'm learning React.js
+* 🧠  Building production-grade applications with React.js
 
 <a href="https://www.github.com/karan362" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/karan362?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
@@ -40,15 +40,3 @@ src="https://img.shields.io/github/followers/karan362?logo=github&style=for-the-
 ### Socials
 
 <p align="left"> <a href="https://www.facebook.com/karan362" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/karan362" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/karan_kkk_362" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/karan362" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/karan362" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/karan362"><img src="https://github-readme-stats.vercel.app/api?username=karan362&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="karan362's GitHub stats" /></a>
-
-<a href="http://www.github.com/karan362"><img src="https://github-readme-streak-stats.herokuapp.com/?user=karan362&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/karan362"><img src="https://activity-graph.herokuapp.com/graph?username=karan362&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/karan362" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karan362&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
