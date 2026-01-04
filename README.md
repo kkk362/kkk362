@@ -10,7 +10,7 @@ Frontend Engineer with 4+ years of experience in React, delivering scalable and 
 * ✉️  You can contact me at [karankhandelwal123510@gmail.com](mailto:karankhandelwal123510@gmail.com)
 * 🧠  Building production-grade applications with React.js
 
-<a href="https://www.github.com/karan362" target="_blank" rel="noreferrer"><img
+<a href="https://www.github.com/kkk362" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/kkk362?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
